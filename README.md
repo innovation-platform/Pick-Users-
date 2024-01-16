@@ -12,7 +12,7 @@ A React component for creating a chip input with autocomplete functionality.
 
 ## Clone the repository:
 
-git clone https://github.com/your-username/react-chip-input.git
+git clone [https://github.com/your-username/react-chip-input.git](https://github.com/innovation-platform/Pick-Users-.git)
 cd react-chip-input
 
 ## Install Dependencies
